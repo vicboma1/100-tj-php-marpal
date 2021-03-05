@@ -5,6 +5,6 @@ class FizzBuzz
 {
     public function apply($index)
     {
-        return null;
+        return "probando";
     }
 }
